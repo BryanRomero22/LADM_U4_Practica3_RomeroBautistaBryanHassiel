@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "290616440033",
+    "firebase_url": "https://u4p3bryan.firebaseio.com",
+    "project_id": "u4p3bryan",
+    "storage_bucket": "u4p3bryan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290616440033:android:d794e2c5c21ee37aa9f3a0",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u4_practica3_romerobautistabryanhassiel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290616440033-qs41af6cie0haoss9h3lh0jucp2uqn78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-R1juqjnLw9r-2DHquJjt9H-mOvu1X-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290616440033-qs41af6cie0haoss9h3lh0jucp2uqn78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
